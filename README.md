@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nithish 👋</h1>
+<h1 align="center">Hi there, I'm Nithishna 👋</h1>
 <h3 align="center">A curious beginner exploring the world of AI, LLMs & Machine Learning 🤖</h3>
 
 <p align="center">
