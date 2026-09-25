@@ -7,7 +7,7 @@
 
 ---
 
-### 🌱 About Me
+### 🌱 About Me--
 
 - 🔭 Currently learning the fundamentals of **Machine Learning** and **Large Language Models**
 - 🧠 Fascinated by how AI models think, reason, and generate
